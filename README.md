@@ -15,7 +15,7 @@ My Portfolio Website
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <!-- my css -->
 <link rel="stylesheet" href="style.css"> 
-    <title> Portfolio |winal</title>
+    <title> Portfolio |zenal</title>
   </head>
   <body id="home">
     <!-- navbar -->
@@ -48,7 +48,7 @@ My Portfolio Website
 <section class="jumbotron text-center">
   <img src="img/kfc.png" alt="winal" width="200" class="rounded-circle img-thumbnail">
   
-  <h1 class="display-4">WINAL</h1>
+  <h1 class="display-4">Zenal</h1>
   <p class="lead">Student |programmer content creator
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#0099ff" fill-opacity="0.8" d="M0,128L48,112C96,96,192,64,288,80C384,96,480,160,576,160C672,160,768,96,864,96C960,96,1056,160,1152,160C1248,160,1344,96,1392,64L1440,32L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
 </section>
@@ -63,10 +63,12 @@ My Portfolio Website
 </div>
 <div class="row justify-content-center fs-5 text-center">
 <div class="col-md-4">
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos et minima aliquam facere totam sint in suscipit illo voluptatem dolore.</p>
+  <p>Mencintai itu nyata,Tapi Memilikimu Hanya Sebatas Kata.
+  Jika Antartika Di Tepi Bumi,Maka Antara Kita Hanya Sebatas. Mengagumi</p>
 </div>
 <div class="col-4">
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni laboriosam exercitationem aliquid, similique impedit quia animi facere modi omnis in tempora voluptatem rerum ut corrupti.</p>
+  <p>Mengenalnya Tidak Sengaja Tapi Melupakan Hampir Gila.
+  Siapa Sangka Wajah Semanis Senja Bisa Membuat Luka Sedalam Samudera</p>
 
 </div>
 </div>
@@ -166,7 +168,7 @@ My Portfolio Website
 <!--Akhir Contact-->
 <!--Footer-->
 <footer class="bg-primary text-white text-center pb-5 ">
- <p>Created with <i class="bi bi-emoji-kiss text-dark"></i> bywinal</p>
+ <p>Created with <i class="bi bi-emoji-kiss text-dark"></i> byzenal</p>
 </footer>
 <!--Akhir Footer-->
     <!-- Optional JavaScript; choose one of the two! -->
