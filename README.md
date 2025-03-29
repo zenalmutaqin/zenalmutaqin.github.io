@@ -1,1 +1,0 @@
-aku berharap bisa sukses 
